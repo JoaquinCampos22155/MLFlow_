@@ -4,4 +4,6 @@ __pycache__/
 mlruns/
 mlartifacts/
 mlflow.db
+ejercicio_5/mlflow_ejercicio_5.db
+ejercicio_5/mlartifacts/
 evidence/*.png
